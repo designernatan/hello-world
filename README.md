@@ -1,10 +1,8 @@
 hello-world
 ===========
 
-Repositório hello-world, ou hello-word.
+Repositório hello-world, hello-wordaaa.
 
-
-Lorem ipsum dolor.
 
 
 <H2>MEDIC!</H2>
